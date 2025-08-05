@@ -42,9 +42,6 @@ I am an advanced student pursuing a Bachelor's Degree in Computer Technology wit
 
 <h4> Check out my Social Media </h4>
 
-<a href= "https://www.instagram.com/matias.centofanti/?__pwa=1">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">  
-<a/>
 <a href= "https://www.linkedin.com/in/matias-centofanti-88b523208/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <a/>
