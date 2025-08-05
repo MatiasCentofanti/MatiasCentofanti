@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Matias Centofanti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZuM201c29wdDJvOG8xb2VmNTVyc2h1d2thODM1NXd6OGZuOWZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+ <img src="https://media.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an advanced student pursuing a Bachelor's Degree in Computer Technology with experience in technical support, process automation using Python, and database management. I specialize in identifying improvement opportunities through data analysis and the use of tools such as SQL, Power BI, and CRM. I have a proactive approach, adapt quickly to new technologies, and enjoy working in collaborative environments with agile methodologies. I seek to continue developing in projects that allow me to contribute and grow professionally.
 
