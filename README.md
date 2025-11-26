@@ -3,7 +3,13 @@
 
  <img src="https://media.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an advanced student pursuing a Bachelor's Degree in Computer Technology with experience in technical support, process automation using Python, and database management. I specialize in identifying improvement opportunities through data analysis and the use of tools such as SQL, Power BI, and CRM. I have a proactive approach, adapt quickly to new technologies, and enjoy working in collaborative environments with agile methodologies. I seek to continue developing in projects that allow me to contribute and grow professionally.
+Technology professional with a focus on data analytics and insights-driven decision-making.
+
+Proficient in the complete analytics lifecycle: ETL, Exploratory Data Analysis (EDA), forecasting, and strategic dashboard design.
+
+Skilled in SQL, Python (Panda, NumPy, Scikit-learn), Power BI/Tableau, and Big Data tools.
+
+My goal is to contribute effectively to data analytics projects while continuing my education and professional development.
 
 ## My Skills Include
 
