@@ -6,8 +6,6 @@ Analista de Datos con dominio avanzado de SQL, Python y herramientas de visualiz
 
 Especialista en gestionar el ciclo de vida del dato, desde la extracción (ETL) hasta el diseño de dashboards estratégicos y forecasting, con un enfoque orientado a resultados y eficiencia operativa.
 
-## Herramientas
-
 ## Lenguajes y análisis de datos
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -27,7 +25,7 @@ Especialista en gestionar el ciclo de vida del dato, desde la extracción (ETL) 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white">
 
-##Data & Cloud
+## Data & Cloud
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
@@ -39,7 +37,7 @@ Especialista en gestionar el ciclo de vida del dato, desde la extracción (ETL) 
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 
-<h4> Red social </h4>
+<h4>Mi red social </h4>
 
 <a href= "https://www.linkedin.com/in/matias-centofanti-88b523208/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
