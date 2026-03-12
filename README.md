@@ -1,4 +1,5 @@
 <h1 align="center">Hi , I'm Matias Centofanti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 ***About me***
 
 Analista de Datos con dominio avanzado de SQL, Python y herramientas de visualización. 
