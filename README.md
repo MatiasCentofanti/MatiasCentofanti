@@ -39,7 +39,7 @@ Specialist in managing the data lifecycle, from extraction (ETL) to the design o
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </span>
 
 <h4> Check out my Social Media </h4>
