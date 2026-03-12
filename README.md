@@ -7,10 +7,12 @@ Analista de Datos con dominio avanzado de SQL, Python y herramientas de visualiz
 Especialista en gestionar el ciclo de vida del dato, desde la extracción (ETL) hasta el diseño de dashboards estratégicos y forecasting, con un enfoque orientado a resultados y eficiencia operativa.
 
 ## Lenguajes y análisis de datos
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+</p>
 
 ## Bases de datos
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
