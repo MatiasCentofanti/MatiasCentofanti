@@ -53,7 +53,9 @@ Especialista en gestionar el ciclo de vida del dato, desde la extracción (ETL) 
 [![Repo](https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&logo=github)](https://github.com/MatiasCentofanti/Hospital_Data_Analysis)
 
 **Arquitectura de Datos y Analítica de Ventas (Retail)**
-[![Repo](https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&logo=github)](https://github.com/MatiasCentofanti/MatiasCentofanti/Pizza_Sales_Relational_Analysis)
+[![Repo](https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&logo=github)](https://github.com/MatiasCentofanti/Pizza_Sales_Relational_Analysis)
+
+
 
 ## Red Social
 
