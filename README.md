@@ -1,15 +1,11 @@
 <h1 align="center">Hi , I'm Matias Centofanti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZuM201c29wdDJvOG8xb2VmNTVyc2h1d2thODM1NXd6OGZuOWZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 
- <img src="https://media.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
-Technology professional with a focus on data analytics and insights-driven decision-making.
+Data Analyst with advanced proficiency in SQL, Python, and visualization tools. 
 
-Proficient in the complete analytics lifecycle: ETL, Exploratory Data Analysis (EDA), forecasting, and strategic dashboard design.
-
-Skilled in SQL, Python (Panda, NumPy, Scikit-learn), Power BI/Tableau, and Big Data tools.
-
-My goal is to contribute effectively to data analytics projects while continuing my education and professional development.
+Specialist in managing the data lifecycle, from extraction (ETL) to the design of strategic dashboards and forecasting, with a focus on results and operational efficiency.
 
 ## My Skills Include
 
@@ -43,6 +39,8 @@ My goal is to contribute effectively to data analytics projects while continuing
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </span>
 
