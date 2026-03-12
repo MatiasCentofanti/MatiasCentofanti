@@ -45,6 +45,8 @@ Especialista en gestionar el ciclo de vida del dato, desde la extracción (ETL) 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </p>
 
+## Proyectos
+
 ## Red Social
 
 <a href= "https://www.linkedin.com/in/matias-centofanti-88b523208/">
