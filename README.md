@@ -2,9 +2,9 @@
 
 ***Sobre mi***
 
-Analista de Datos con dominio avanzado de SQL, Python y herramientas de visualización. 
-
-Especialista en gestionar el ciclo de vida del dato, desde la extracción (ETL) hasta el diseño de dashboards estratégicos y forecasting, con un enfoque orientado a resultados y eficiencia operativa.
+Analista de Datos con experiencia en SQL, Power BI, Python y SAP CRM. Especializado en
+extracción, transformación y análisis de datos, desarrollo de dashboards y automatización de
+reportes para el seguimiento de KPIs comerciales.
 
 ## Lenguajes y análisis de datos
 <p>
