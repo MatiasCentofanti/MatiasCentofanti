@@ -12,7 +12,6 @@ Cuento además con formación en Google Data Analytics, Advanced Microsoft Power
 
 Actualmente busco oportunidades donde pueda combinar mi experiencia operativa con mi formación tecnológica, especialmente en posiciones de Analista de Operaciones Jr., Back Office, Reporting, Administración, Business Intelligence o Data Analytics.
 
-Tecnologías: Excel | SQL | Power BI | Power Query | Python | DAX | MySQL | Pandas | ETL | CRM
 
 
 ## Lenguajes y análisis de datos
