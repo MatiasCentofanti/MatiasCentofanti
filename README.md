@@ -1,10 +1,19 @@
-<h1 align="center">Data Analyst | Python, SQL, Power BI | Ingles B2</h1>
+<h1 align="center">OPERACIONES · BACK OFFICE · DATA ANALYTICS</h1>
 
 ***Sobre mi***
 
-Analista de Datos con experiencia en SQL, Power BI, Python y SAP CRM. Especializado en
-extracción, transformación y análisis de datos, desarrollo de dashboards y automatización de
-reportes para el seguimiento de KPIs comerciales.
+Soy estudiante avanzado de la Licenciatura en Tecnología Informática en UEAN, actualmente cursando el último año, con experiencia en atención al cliente, retención y gestión de casos.
+
+Actualmente trabajo en Apex America como Operador de Retención, donde gestiono solicitudes y reclamos mediante CRM/ticketing, realizando seguimiento de altas, bajas y modificaciones, consultas de facturación y cuenta corriente, medios de pago y gestiones administrativas derivadas a distintas áreas.
+
+Paralelamente, desarrollé un perfil orientado al análisis de datos y la mejora de procesos. Manejo Excel avanzado, SQL, Power BI, Power Query y Python, herramientas que también aplico en proyectos personales de análisis, automatización, ETL, modelado de datos y creación de dashboards.
+
+Cuento además con formación en Google Data Analytics, Advanced Microsoft Power BI, SQL Advanced y Python aplicado a Excel.
+
+Actualmente busco oportunidades donde pueda combinar mi experiencia operativa con mi formación tecnológica, especialmente en posiciones de Analista de Operaciones Jr., Back Office, Reporting, Administración, Business Intelligence o Data Analytics.
+
+Tecnologías: Excel | SQL | Power BI | Power Query | Python | DAX | MySQL | Pandas | ETL | CRM
+
 
 ## Lenguajes y análisis de datos
 <p>
