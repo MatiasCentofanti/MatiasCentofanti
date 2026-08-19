@@ -2,16 +2,7 @@
 
 ***Sobre mi***
 
-Soy estudiante avanzado de la Licenciatura en Tecnología Informática en UEAN, actualmente cursando el último año, con experiencia en atención al cliente, retención y gestión de casos.
-
-Actualmente trabajo en Apex America como Operador de Retención, donde gestiono solicitudes y reclamos mediante CRM/ticketing, realizando seguimiento de altas, bajas y modificaciones, consultas de facturación y cuenta corriente, medios de pago y gestiones administrativas derivadas a distintas áreas.
-
-Paralelamente, desarrollé un perfil orientado al análisis de datos y la mejora de procesos. Manejo Excel avanzado, SQL, Power BI, Power Query y Python, herramientas que también aplico en proyectos personales de análisis, automatización, ETL, modelado de datos y creación de dashboards.
-
-Cuento además con formación en Google Data Analytics, Advanced Microsoft Power BI, SQL Advanced y Python aplicado a Excel.
-
-Actualmente busco oportunidades donde pueda combinar mi experiencia operativa con mi formación tecnológica, especialmente en posiciones de Analista de Operaciones Jr., Back Office, Reporting, Administración, Business Intelligence o Data Analytics.
-
+Data Analyst con experiencia en análisis de datos, automatización de reportes y desarrollo de dashboards. Busco incorporarme a un rol con mayor diversidad de herramientas, fuentes de datos y proyectos, contribuyendo con análisis que apoyen la toma de decisiones de negocio.
 
 
 ## Lenguajes y análisis de datos
