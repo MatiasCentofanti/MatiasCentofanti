@@ -1,4 +1,4 @@
-<h1 align="center">OPERACIONES · BACK OFFICE · DATA ANALYTICS</h1>
+<h1 align="center">Data Analyst | Business Intelligence | SQL | Python | Power BI</h1>
 
 ***Sobre mi***
 
