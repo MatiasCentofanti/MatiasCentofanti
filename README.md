@@ -1,85 +1,91 @@
-<h1 align="center">Data Analyst | Business Intelligence | SQL | Python | Power BI</h1>
+# Hola, soy Matías Centofanti 👋
 
-***Sobre mi***
+**Data Analyst** | Buenos Aires, Argentina
 
-Data Analyst. Convierto datos operativos y comerciales en reportes automatizados y dashboards que los equipos usan para decidir.
- 
-En Apex America trabajo con datos de SAP CRM: automaticé la generación de reportes semanales con Python y SQL, y construí dashboards en Power BI para el seguimiento de ventas, retención y cancelaciones.
- 
-Stack
- · SQL — consultas analíticas, CTEs, window functions, SQL Server y MySQL
- · Python — Pandas, Matplotlib, Seaborn, automatización de procesos ETL
- · Power BI — modelado en esquema estrella, DAX, Power Query
- · Excel avanzado — Power Query, Power Pivot, tablas dinámicas
- 
-Proyectos con código y documentación en GitHub: https://github.com/MatiasCentofanti
- · Nexo Comercial — pipeline end-to-end: generación de datos en Python, base MySQL, modelo estrella y dashboard con 23 medidas DAX
- · Análisis de churn en telecomunicaciones
- 
-Formación: Licenciatura en Tecnología Informática en Escuela Argentina de Negocios · Google Data Analytics · SQL Advanced (HackerRank)
- 
-Abierto a posiciones de Data Analyst o BI Analyst en Buenos Aires, híbrido o remoto.
-matiascentofanti8@gmail.com
+Convierto datos operativos y comerciales en reportes automatizados y dashboards que los equipos usan para decidir.
 
-## Lenguajes y análisis de datos
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-</p>
+Actualmente trabajo con datos de SAP CRM en **Apex America**, donde automatizo la generación de reportes con Python y SQL y desarrollo dashboards en Power BI para el seguimiento de ventas, retención y cancelaciones de clientes.
 
-## Bases de datos
-<p>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white">
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
-</p>
+Estudiante avanzado de **Licenciatura en Tecnología Informática** (Escuela Argentina de Negocios, 2022–2026).
 
-## Business Intelligence
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white">
-</p>
+---
 
-## Data & Cloud
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-</p>
+## 🛠️ Stack
 
-## Tools
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-</p>
+**Lenguajes y bases de datos**
 
-## Proyectos
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Analisis_de_Churn_de_Clientes**
-[![Repo](https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&logo=github)](https://github.com/MatiasCentofanti/Analisis_de_Churn_de_Clientes)
+**Business Intelligence**
 
-**Analysis-Nexo-Comercial**
-[![Repo](https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&logo=github)](https://github.com/MatiasCentofanti/Analysis-Nexo-Comercial)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
+| Área | Detalle |
+|---|---|
+| **SQL** | Consultas analíticas, CTEs, window functions, subconsultas, modelado relacional |
+| **Python** | Pandas, Matplotlib, Seaborn, automatización de procesos ETL |
+| **Power BI** | Modelado en esquema estrella, DAX, Power Query, actualización programada |
+| **Excel avanzado** | Power Query, Power Pivot, tablas dinámicas |
 
+---
 
-## Red Social
+## 📊 Proyectos destacados
 
-<a href= "https://www.linkedin.com/in/matias-centofanti-88b523208/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<a/>
+### [Análisis Nexo Comercial](https://github.com/MatiasCentofanti/Analysis-Nexo-Comercial)
 
-<h2>Github stats</h2> 
+Pipeline de análisis end-to-end sobre una distribuidora B2B ficticia, con dos años de datos (2023–2024).
 
-[![](https://github-readme-stats.vercel.app/api?username=MatiasCentofanti&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MatiasCentofanti)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MatiasCentofanti&theme=material-palenight)](https://github.com/MatiasCentofanti)
-</div>
+- Generación de 15.000 registros de ventas con Python
+- Base de datos en MySQL 8.0 y modelo en esquema estrella
+- 6 consultas SQL analíticas con CTEs y window functions
+- Dashboard en Power BI con 23 medidas DAX distribuidas en 5 páginas de análisis
+- KPIs de ventas, clientes, productos, agentes y zonas comerciales
+
+`Python` · `MySQL` · `SQL` · `Power BI` · `DAX`
+
+---
+
+### [Análisis de Churn de Clientes — Telecomunicaciones](https://github.com/MatiasCentofanti)
+
+Análisis de bajas de clientes orientado a identificar los factores asociados a la cancelación del servicio.
+
+- Limpieza y exploración del dataset con Python
+- Consultas SQL para segmentar la base por perfil de cliente y tipo de contrato
+- Visualización de patrones de churn en Power BI
+
+`Python` · `Pandas` · `SQL` · `Power BI`
+
+---
+
+### [Pizza Sales Dashboard](https://github.com/MatiasCentofanti/Pizza-Sales-Dashboard)
+
+Análisis de ventas sobre el dataset público Pizza Place Sales.
+
+- Modelado de los datos en SQL Server y validación con T-SQL
+- Dashboard en Power BI con medidas DAX para ingresos, órdenes, ticket promedio y patrones de venta
+
+`T-SQL` · `SQL Server` · `Power BI` · `DAX`
+
+---
+
+## 📜 Certificaciones
+
+- **Google Data Analytics Professional Certificate** — Google
+- **SQL (Advanced) Certificate** — HackerRank
+- **Scientific Computing with Python** — freeCodeCamp
+- **Advanced Microsoft Power BI**
+- **Python en Excel para análisis de datos** — LinkedIn Learning
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-centofanti-88b523208/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matiascentofanti8@gmail.com)
+
+Abierto a posiciones de **Data Analyst**, **BI Analyst** o **Analista de Reporting** en Buenos Aires — híbrido o remoto.
