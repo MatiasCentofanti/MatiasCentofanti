@@ -50,7 +50,7 @@ Pipeline de análisis end-to-end sobre una distribuidora B2B ficticia, con dos a
 
 ---
 
-### [Análisis de Churn de Clientes — Telecomunicaciones](https://github.com/MatiasCentofanti)
+### [Análisis de Churn de Clientes — Telecomunicaciones](https://github.com/MatiasCentofanti/Analisis-de-Churn-de-Clientes-Telecomunicaciones)
 
 Análisis de bajas de clientes orientado a identificar los factores asociados a la cancelación del servicio.
 
@@ -59,6 +59,18 @@ Análisis de bajas de clientes orientado a identificar los factores asociados a 
 - Visualización de patrones de churn en Power BI
 
 `Python` · `Pandas` · `SQL` · `Power BI`
+
+---
+
+### [Hospital-Operations-Analytics](https://github.com/MatiasCentofanti/Hospital-Operations-Analytics)
+
+Análisis de capacidad y flujo de pacientes sobre cuatro archivos operativos que no cruzaban entre sí.
+
+- ETL en Python con 32 controles de calidad, cuarentena de filas huérfanas y trazabilidad de cada decisión
+- Modelo estrella en SQL Server con tres tablas de hechos de distinto grano y consultas con funciones de ventana
+- Tablero de 5 páginas en Power BI, incluyendo una dedicada a calidad de datos
+
+`Python` · `Pandas` · `SQL Server` · `Power BI` · `DAX`
 
 ---
 
