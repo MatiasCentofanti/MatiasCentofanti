@@ -1,12 +1,23 @@
 # Hola, soy Matías Centofanti 👋
 
-**Data Analyst** | Buenos Aires, Argentina
-
-Convierto datos operativos y comerciales en reportes automatizados y dashboards que los equipos usan para decidir.
-
-Actualmente trabajo con datos de SAP CRM en **Apex America**, donde automatizo la generación de reportes con Python y SQL y desarrollo dashboards en Power BI para el seguimiento de ventas, retención y cancelaciones de clientes.
-
-Estudiante avanzado de **Licenciatura en Tecnología Informática** (Escuela Argentina de Negocios, 2022–2026).
+Data Analyst. Convierto datos operativos y comerciales en reportes automatizados y dashboards que los equipos usan para decidir.
+ 
+En Apex America trabajo con datos de SAP CRM: automaticé la generación de reportes semanales con Python y SQL, y construí dashboards en Power BI para el seguimiento de ventas, retención y cancelaciones.
+ 
+Stack
+ · SQL — consultas analíticas, CTEs, window functions, SQL Server y MySQL
+ · Python — Pandas, Matplotlib, Seaborn, automatización de procesos ETL
+ · Power BI — modelado en esquema estrella, DAX, Power Query
+ · Excel avanzado — Power Query, Power Pivot, tablas dinámicas
+ 
+Proyectos con código y documentación en GitHub: https://github.com/MatiasCentofanti
+ · Nexo Comercial — pipeline end-to-end: generación de datos en Python, base MySQL, modelo estrella y dashboard con 23 medidas DAX
+ · Análisis de churn en telecomunicaciones
+ 
+Formación: Licenciatura en Tecnología Informática en Escuela Argentina de Negocios · Google Data Analytics · SQL Advanced (HackerRank)
+ 
+Abierto a posiciones de Data Analyst o BI Analyst en Buenos Aires, híbrido o remoto.
+matiascentofanti8@gmail.com
 
 ---
 
